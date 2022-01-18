@@ -64,8 +64,8 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm an undergraduate now in my final year in Chongqing University, majoring in Electronic Information Engineering. For my research Interest, I decide to focus on Deep learning and Machine learning. And I plan to get my master degree in HongKong or Singapore.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+For my undergratuate career, my average grades is good but not excellent. I was awarded for Comprehensive Scholarship of Chongqing University for 5 times(1 for first prize, 3 for second and 1 for third), and I was also awarded for Changjiang Electronic Power Scholarship. Besides, I won the Third prize of national College Mathematics Competition. Apart from my study, I joined the choir of my university when I entered the college, and won the second prize of The third Chongqing Vocal Music Competition in 2018, the first prize of the Sixth National College Students Art Exhibition.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
