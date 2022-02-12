@@ -36,24 +36,24 @@ directions: Enter Building Songyuan 3 and take the stairs to Office 19 on Floor 
 office_hours:
   - 'Monday to Saturday 09:00 to 21:00'
   - 'Sunday 09:00 to 17:00'
-appointment_url: 'https://calendly.com'
+# appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/HardenYujy'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+  #- icon: skype
+ #   icon_pack: fab
+  #  name: Skype Me
+  #  link: 'skype:echo123?call'
+ # - icon: keybase
+  #  icon_pack: fab
+  #  name: Chat on Keybase
+ #   link: 'https://keybase.io/'
+ # - icon: comments
+ #   icon_pack: fas
+  #  name: Discuss on Forum
+#    link: 'https://discourse.gohugo.io'
 
 # Site header
 
